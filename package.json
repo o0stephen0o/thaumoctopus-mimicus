@@ -1,0 +1,24 @@
+{
+  "name": "thaumoctopus-mimicus",
+  "version": "0.0.0",
+  "description": "webapp",
+  "main": "js/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o0stephen0o/thaumoctopus-mimicus.git"
+  },
+  "keywords": [
+    "\"thaumoctopus",
+    "mimicus\""
+  ],
+  "author": "stephenlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/o0stephen0o/thaumoctopus-mimicus/issues"
+  },
+  "homepage": "https://github.com/o0stephen0o/thaumoctopus-mimicus#readme"
+}
